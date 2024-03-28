@@ -17,6 +17,13 @@ Esta aplicación web interactiva permite a los usuarios visualizar y manipular u
 
 ## Comenzando
 
+### Prerrequisitos
+
+Antes de comenzar, asegúrate de tener instalado lo siguiente:
+
+- [Node.js](https://nodejs.org/en/): Entorno de ejecución para JavaScript.
+- [npm](https://www.npmjs.com/): Manejador de paquetes para JavaScript.
+
 ### Instalación
 
 Para poner en marcha el proyecto en tu máquina local para fines de desarrollo y pruebas, sigue estos pasos:
@@ -52,6 +59,19 @@ npm start
 - [React](https://reactjs.org/) - Una biblioteca de JavaScript para construir interfaces de usuario.
 - [Ant Design](https://ant.design/) - Un sistema de diseño y una biblioteca de componentes de UI para React.
 - [Google Maps API](https://developers.google.com/maps) - Permite personalizar mapas con contenido y estilos propios, aprovechando la robusta infraestructura de datos geográficos de Google.
+
+## Contribuir
+
+¡Las contribuciones son lo que hacen que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear! Cualquier contribución que hagas será **muy apreciada**.
+
+Si tienes una sugerencia para mejorar esto, por favor:
+
+1. **Fork** el repositorio.
+2. Crea tu **Feature Branch** (`git checkout -b feature/AmazingFeature`).
+3. Haz tus **cambios** en el código.
+4. **Commit** tus cambios (`git commit -m 'Add some AmazingFeature'`).
+5. **Push** a la rama (`git push origin feature/AmazingFeature`).
+6. Abre un **Pull Request**.
 
 ## Contacto
 
