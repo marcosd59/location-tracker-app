@@ -65,9 +65,6 @@ const Principal = () => {
           <MapContainer coordinates={coordinates} />
         </div>
       </Content>
-      <Footer style={{ textAlign: "center" }}>
-        Marcos Damián Pool Canul ©2024
-      </Footer>
     </Layout>
   );
 };
