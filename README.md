@@ -72,9 +72,3 @@ Si tienes una sugerencia para mejorar esto, por favor:
 4. **Commit** tus cambios (`git commit -m 'Add some AmazingFeature'`).
 5. **Push** a la rama (`git push origin feature/AmazingFeature`).
 6. Abre un **Pull Request**.
-
-## Contacto
-
-- **Nombre**: Marcos Damián Pool Canul
-- **Correo Electrónico**: damian.marcospool@gmail.com
-- **GitHub**: [marcosd59](https://github.com/marcosd59)
