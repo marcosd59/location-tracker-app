@@ -65,6 +65,7 @@ const Principal = () => {
           <MapContainer coordinates={coordinates} />
         </div>
       </Content>
+      <Footer style={{ textAlign: "center" }}>©2024</Footer>
     </Layout>
   );
 };
